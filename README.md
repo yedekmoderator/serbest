@@ -1,1 +1,1 @@
-# - [ ] Düzenlenmedi.
+- [ ] Düzenlenmedi.
